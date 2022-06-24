@@ -4,15 +4,6 @@
 Инженер отдела проектирования.
 Опыт программирования промышленных контроллеров.
 Опыт программирования на Java – курсы netology, udemy, участие в startup проекте.
-Освоенный стек:
-- Git
-- Maven
-- Spring Boot
-- PostgreSQL
-- MySQL
-- Liquibase
-- Junit
-- Docker
 Высшее образование - СамГТУ, Автоматизация технологических процессов и производств
 
 ## Что знаю/умею
@@ -20,13 +11,14 @@
 - ОПП
 - Git
 - Maven
-- работал с PostgreSQL, MS SQL, MySQL
+- работал с PostgreSQL, MySQL
 - работал со SpringMVC
 - работал со SpringBoot
 - работал с Thymeleaf
 - работал с Liquibase
 - работал c JUnit 4/5
 - работал с log4j
+- Docker
 - есть небольшой опыт написания RESTfull сервисов(SpringBoot, OpenApi) 
 
 ## Для связи
